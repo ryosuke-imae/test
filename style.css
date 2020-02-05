@@ -1,0 +1,7 @@
+#img_list {
+  display: flex;
+}
+
+#img_list li {
+  margin: 0 10px;
+}
